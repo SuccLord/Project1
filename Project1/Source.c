@@ -18,5 +18,6 @@ int main() {
 			printf("\n");
 		}
 	}
+	printf("pingas");
 	return 0;
 }
