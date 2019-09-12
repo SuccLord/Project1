@@ -20,5 +20,6 @@ int main() {
 			}
 		}
 	}
+	printf("pingas");
 	return 0;
 }
